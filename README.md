@@ -1,5 +1,7 @@
 # 💫 About Me:
-I’m a Computer Networks and Data Communications student with a strong passion for programming and self-learning. I focus on Android mobile development using Kotlin, backend API development with .NET (C#), and Python for automation and backend services.<br><br>I enjoy building practical systems, understanding how networks operate under the hood, and continuously improving my skills in software engineering and cybersecurity. My goal is to create scalable, secure, and maintainable applications that solve real-world problems.
+I graduated with a degree in Computer Networks and Data Communications and have a strong passion for programming and self-learning. I focus on developing Android mobile applications using Kotlin, and server-side API development with .NET (C#) and Python for automation and server-side services.
+
+I enjoy building real-world systems, understanding how networks work, and continuously improving my skills in software engineering and cybersecurity. My goal is to create scalable, secure, and maintainable applications that solve real-world problems.
 
 
 ## 🌐 Socials:
