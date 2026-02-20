@@ -18,9 +18,6 @@ I’m a Computer Networks and Data Communications student with a strong passion 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LTDat11&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=LTDat11&icon=10&color=3)](https://visitcount.itsvg.in)
 
